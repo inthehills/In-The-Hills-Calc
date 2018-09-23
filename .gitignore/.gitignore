@@ -655,12 +655,12 @@ $(".gen").change(function () {
             calcStat = CALC_STAT_ADV;
             break;
         default:
-            pokedex = POKEDEX_SM;
-            setdex = SETDEX_SM;
+            pokedex = POKEDEX_USM;
+            setdex = SETDEX_USM;
             typeChart = TYPE_CHART_XY;
-            moves = MOVES_SM;
-            items = ITEMS_SM;
-            abilities = ABILITIES_SM;
+            moves = MOVES_USM;
+            items = ITEMS_USM;
+            abilities = ABILITIES_USM;
             STATS = STATS_GSC;
             calcHP = CALC_HP_ADV;
             calcStat = CALC_STAT_ADV;
